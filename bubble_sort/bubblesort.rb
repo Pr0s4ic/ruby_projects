@@ -17,5 +17,5 @@ def bubble_sort(list)
     return list
 end
 
-result = bubble_sort(to_sort1)
+result = bubble_sort(to_sort)
 puts("#{result}")
